@@ -1,0 +1,11 @@
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\bin\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.deps.json
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\bin\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.dll
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\bin\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.pdb
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\bin\Release\netcoreapp3.0\Hasco.Bot.Core.dll
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\bin\Release\netcoreapp3.0\Hasco.Bot.Core.pdb
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\obj\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\obj\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\obj\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.AssemblyInfo.cs
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\obj\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.csproj.CopyComplete
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\obj\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.dll
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Infrastructure\obj\Release\netcoreapp3.0\Hasco.Bot.Infrastructure.pdb

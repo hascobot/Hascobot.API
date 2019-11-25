@@ -1,0 +1,404 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Api\\Hasco.Bot.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Api\\Hasco.Bot.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Api\\Hasco.Bot.Api.csproj",
+        "projectName": "Hasco.Bot.Api",
+        "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Api\\Hasco.Bot.Api.csproj",
+        "packagesPath": "C:\\Users\\Kucha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Api\\obj\\publish\\win-x86\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kucha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure.Twitch\\Hasco.Bot.Infrastructure.Twitch.csproj": {
+                "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure.Twitch\\Hasco.Bot.Infrastructure.Twitch.csproj"
+              },
+              "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AspNet.Security.OAuth.Twitch": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Ninject": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "TwitchLib": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj",
+        "projectName": "Hasco.Bot.Core",
+        "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj",
+        "packagesPath": "C:\\Users\\Kucha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kucha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "TwitchLib": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure.Twitch\\Hasco.Bot.Infrastructure.Twitch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure.Twitch\\Hasco.Bot.Infrastructure.Twitch.csproj",
+        "projectName": "Hasco.Bot.Infrastructure.Twitch",
+        "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure.Twitch\\Hasco.Bot.Infrastructure.Twitch.csproj",
+        "packagesPath": "C:\\Users\\Kucha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure.Twitch\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kucha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj": {
+                "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj"
+              },
+              "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "TwitchLib": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj",
+        "projectName": "Hasco.Bot.Infrastructure",
+        "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\Hasco.Bot.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Kucha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kucha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj": {
+                "projectPath": "C:\\Users\\Kucha\\source\\repos\\Hasco3\\HascoBot\\Hasco.Bot.Core\\Hasco.Bot.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "TwitchLib": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

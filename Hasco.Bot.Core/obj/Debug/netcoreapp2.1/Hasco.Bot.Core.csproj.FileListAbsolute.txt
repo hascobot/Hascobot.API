@@ -1,0 +1,7 @@
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\bin\Debug\netcoreapp2.1\Hasco.Bot.Core.deps.json
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\bin\Debug\netcoreapp2.1\Hasco.Bot.Core.dll
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\bin\Debug\netcoreapp2.1\Hasco.Bot.Core.pdb
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\obj\Debug\netcoreapp2.1\Hasco.Bot.Core.AssemblyInfoInputs.cache
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\obj\Debug\netcoreapp2.1\Hasco.Bot.Core.AssemblyInfo.cs
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\obj\Debug\netcoreapp2.1\Hasco.Bot.Core.dll
+C:\Users\Kucha\source\repos\Hasco3\HascoBot\Hasco.Bot.Core\obj\Debug\netcoreapp2.1\Hasco.Bot.Core.pdb
